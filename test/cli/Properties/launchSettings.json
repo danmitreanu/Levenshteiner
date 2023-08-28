@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cli": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Levenshteiner\\data\\worldcities.csv\r\nD:\\Levenshteiner\\data\\out"
+    }
+  }
+}
